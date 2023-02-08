@@ -21,4 +21,10 @@ class DashboardController extends Controller
 
         return view('pages/dashboard/dashboard', compact('dataFeed'));
     }
+
+    public function transactions()
+    {
+        $dataFeed = new DataFeed();
+        return view('pages/dashboard/deposit', compact('dataFeed'));
+    }
 }
