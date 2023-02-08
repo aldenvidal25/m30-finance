@@ -45,7 +45,7 @@
     <!-- Content -->
     <div class="relative">
         <h1 class="text-2xl md:text-3xl text-slate-800 font-bold mb-1">Good afternoon, {{ Auth::user()->name }} 👋</h1>
-        <p>You are in the transactions page! Start earning 30% of your savings a month.</p>
+        <p>You are in the deposit page! Start earning 30% of your savings a month.</p>
     </div>
 
 </div>
