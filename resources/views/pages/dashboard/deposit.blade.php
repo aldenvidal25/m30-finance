@@ -7,10 +7,10 @@
         <!-- Cards -->
         <div class="grid grid-cols-12 gap-6">
 
-            <!-- Line chart (Acme Plus) -->
+            <!-- Line chart (Gcash) -->
             <x-dashboard.deposit-card-01 :dataFeed="$dataFeed" />
 
-            <!-- Line chart (Acme Advanced) -->
+            <!-- Line chart (BPI) -->
             <x-dashboard.deposit-card-02 :dataFeed="$dataFeed" />  
 
         </div>
