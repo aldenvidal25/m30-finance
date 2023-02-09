@@ -28,4 +28,6 @@ Route::middleware(['auth:sanctum', 'verified'])->group(function () {
     });
 
     Route::get('/dashboard/deposit', [DashboardController::class, 'deposit'])->name('deposit');
+
+    Route::get('/dashboard/depositlog', [DashboardController::class, 'depositlog'])->name('depositlog');
 });

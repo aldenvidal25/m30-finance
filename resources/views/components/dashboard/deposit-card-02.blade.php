@@ -34,7 +34,7 @@
         <h2 class="text-lg font-semibold text-slate-800 mb-2">BPI</h2>
             <img class="" src="https://play-lh.googleusercontent.com/mjHDhET2n67GSZpmQtEBejwbXIkc5MtwrlmjhgMKoSMZkMbvb4XZmCikZNIOYo0Ur3CG" alt=""/>
             <div class="flex justify-center">
-            <button class="btn bg-indigo-500 hover:bg-indigo-600 text-white items-center">
+            <button class="btn bg-indigo-500 hover:bg-indigo-600 text-white items-center my-3">
                 <span class="hidden xs:block ml-2">Pay Now</span>
             </button>
             </div>

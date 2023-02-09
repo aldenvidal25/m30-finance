@@ -34,7 +34,7 @@
         <h2 class="text-lg font-semibold text-slate-800 mb-2">GCash</h2>
             <img class="" src="https://play-lh.googleusercontent.com/QNP0Aj2hyumAmYiWVAsJtY2LLTQnzHxdW7-DpwFUFNkPJjgRxi-BXg7A4yI6tgYKMeU" alt=""/>
             <div class="flex justify-center">
-            <button class="btn bg-indigo-500 hover:bg-indigo-600 text-white items-center">
+            <button class="btn bg-indigo-500 hover:bg-indigo-600 text-white items-center my-3">
                 <span class="hidden xs:block ml-2">Pay Now</span>
             </button>
             </div>
